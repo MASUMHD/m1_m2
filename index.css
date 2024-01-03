@@ -13,3 +13,7 @@ h1{
     
     color: red;
 }
+ul{
+    color: red;
+    border: 3px solid green;
+}
